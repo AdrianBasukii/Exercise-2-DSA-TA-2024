@@ -1,1 +1,4 @@
-# Exercise-2-DSA-TA-2024
+## 📁 FILE LOCATION
+palindromeChecker > src > palindromeChecking.java 
+
+**Driver class is contained within the main file**
